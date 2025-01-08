@@ -15,3 +15,7 @@ Using irrecv_remote.decodedIRData.command
 12 = Button 1
 24 = Button 2
 94 = Button 3
+
+Code | 69 | 12 | 24 | 94
+--- | --- | --- | --- |---
+Button | Power | 1 | 2 | 3
